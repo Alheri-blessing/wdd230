@@ -1,0 +1,29 @@
+
+h1 {
+    font-size: 2rem;
+}
+
+nav {
+    background-color: seagreen;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: .5rem;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(233, 214, 189, 0.2);
+    color: black;
+}
+
+nav .action {
+    background-color: rgb(14, 63, 47);
+}
